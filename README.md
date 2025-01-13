@@ -10,7 +10,8 @@ JavaScript (React, Node.js, Express, Axios),
 Python,
 Java,
 C/C++,
-PHP (Laravel),
+PHP (Laravel), 
+R
 
 ### Frontend:
 
@@ -19,7 +20,7 @@ TailwindCSS,
 
 ### Bases de datos:
 
-SQL,
+SQL (MySQL, MariaDB, PostgreSQL),
 NoSQL (MongoDB, Elasticsearch)
 
 ### Herramientas y plataformas:
