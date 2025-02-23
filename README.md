@@ -1,4 +1,4 @@
-# Hola, soy Isaac 👋
+# Hola a todos, soy Isaac 👋
 
 Soy un estudiante de Ingeniería en Computer Science con especialización en Data Science, apasionado por la tecnología y las soluciones innovadoras. Mi objetivo es utilizar el poder de los datos y el desarrollo de software para resolver problemas complejos y aportar valor.
 
