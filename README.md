@@ -29,5 +29,4 @@ Postman,
 Jenkins,
 GitHub
 
-🚀 “La innovación es la clave para transformar el mundo.”
 
